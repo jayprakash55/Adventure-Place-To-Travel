@@ -1,0 +1,50 @@
+@import url("https://fonts.googleapis.com/css2?family=Courgette&display=swap");
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  width: 100%;
+  max-width: 600px;
+  margin: auto;
+  color: white;
+}
+
+body {
+  margin: 2rem, 1.5 rem;
+  background-color: #38bdf8;
+}
+
+hr {
+  border: 1px solid black;
+}
+
+h1 {
+  font-size: 1.5rem;
+}
+
+button {
+  margin: 0.5rem;
+  padding: 0.5rem, 1rem;
+  border: 1px solid white;
+  border-radius: 0.4rem;
+  background-color: #0891b2;
+}
+
+ul {
+  padding-inline-start: 0;
+}
+
+li {
+  display: flex;
+  background-color: #0891b2;
+  border: 1px solid white;
+  border-radius: 1rem;
+  margin-bottom: 1.2rem;
+  justify-content: center;
+}
+
+img {
+  width: 160px;
+  object-fit: cover;
+  padding: 1rem 0rem 1rem 1rem;
+}
